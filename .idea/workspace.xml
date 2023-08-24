@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a98aa7-1c39-4882-8d15-7b9875a05b93" name="Changes" comment="New Start" />
+    <list default="true" id="57a98aa7-1c39-4882-8d15-7b9875a05b93" name="Changes" comment="Made a Simple Calculator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,13 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -22,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UPZtQZJxKMlsYKSOyM5Xh8elNG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -44,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1692843389403</updated>
       <workItem from="1692843390531" duration="540000" />
-      <workItem from="1692845831724" duration="3548000" />
+      <workItem from="1692845831724" duration="3753000" />
+      <workItem from="1692852563489" duration="3148000" />
     </task>
     <task id="LOCAL-00001" summary="New Start">
       <created>1692850075530</created>
@@ -60,7 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1692850142526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Start">
+      <created>1692850503604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692850503604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Start">
+      <created>1692850520471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692850520471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Start">
+      <created>1692850635568</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692850635568</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Start" />
+    <MESSAGE value="Made a Simple Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a Simple Calculator" />
   </component>
 </project>
