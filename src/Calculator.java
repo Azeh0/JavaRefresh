@@ -17,8 +17,6 @@ public class Calculator {
        System.out.println("Please Enter in Number 2");
         NumB = KB.nextDouble();
 
-
-
         switch (Operation) {
             case "+":
                 Total = NumA + NumB;
@@ -38,10 +36,6 @@ public class Calculator {
         }
 
        System.out.println("Your answer is " + Total);
-
-
-
-
 
     }
 }
