@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class Main {
+public class CelciusToFarenheit {
     public static void main(String[] args) {
         Scanner KB = new Scanner(System.in);
 
-        String scale = "";
-        double temperature = 0, unit = 0;
+        String scale;
+        double temperature, unit;
 
         System.out.println("Enter in C or F");
 
